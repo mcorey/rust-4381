@@ -1,3 +1,7 @@
+**Note:** Website is:
+
+![](https://media.tenor.com/MRCIli40TYoAAAAi/under-construction90s-90s.gif)
+
 In Spring 2023 I taught an introductory course on the Rust programming language at Bennington 
 College. This course was largely successful: the students got a firm grounding in Rust; a number of 
 them created open-source crates; and they all learned a lot. Perhapy most interestingly, one of 
