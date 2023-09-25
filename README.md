@@ -40,7 +40,8 @@ The class followed a similar pattern. First, I checked in on how they were doing
 I largely followed the order of The Book in the class. We skipped some chapters after the fundamentals. I chose not to cover multi-threading and only skim Macros and a few other topics I thought were outside the scope of an 'intro' class. I also wanted to leave a full month for the students to work on their finals. I take a very practical and vocational approach to teaching so I cared a lot that the students had practice writing their own programs and work they could put on their GitHub. 
 
 ### Syllabus
-I include our syllabus below, including our snow days and other interruptions.
+
+<iframe src="https://docs.google.com/document/d/e/2PACX-1vSTNMOItYRTTRKKy-ycO4AuEay8HlyQP9kLHbQnRkTLCIWCpID2otOd_LDu208v4u_6zQm624fTyd1W/pub?embedded=true"></iframe>
 
 ### Running Lecture Notes and Q&A
 I include lightly edited lecture notes below.
