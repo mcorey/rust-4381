@@ -11,9 +11,21 @@ taking for granted in our day-to-day programming languages (usually Python and J
 
 I break the rest of the page up up into a few sections:
 
+0. Examples of student work
 1. The material we covered in the class
 2. Examples of student output
 3. Things I'd do differently
+
+## Examples of Student Work
+A handful of people in the class produced open sourced projects and I want to highlight these at the top of the doc. 
+
+- [Ons Ali](https://www.linkedin.com/in/ons-ali-8abb18109/) contributed a [resolver back to the Rust implementation of Chickadee](https://github.com/chapinb/chickadee-rs/issues/6).
+- [Mohit KC](https://www.linkedin.com/in/mohit-kc/) expanded the average project we did for our midterm into a [math crate](https://crates.io/crates/math_rust).
+- [Vriska Weaver](https://github.com/henlo-birb) wrote a series of procedural macros to [make Bevy much more ergonomic](https://crates.io/crates/bevy_ergo_plugin)
+- Other final projects included
+  - [A crypto alert](https://github.com/Tesfa-eth/cryto-alert)
+  - [A CLI program to hid folders in windows](https://github.com/mhsizar/hide-folder)
+  - And a number of students working on APIs with Rust
 
 ## Material We Covered In Class
 ### Information To The Students
