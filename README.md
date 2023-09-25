@@ -41,10 +41,10 @@ I largely followed the order of The Book in the class. We skipped some chapters 
 
 ### Syllabus
 
-Our full syllabus is available [here](https://docs.google.com/document/d/e/2PACX-1vSTNMOItYRTTRKKy-ycO4AuEay8HlyQP9kLHbQnRkTLCIWCpID2otOd_LDu208v4u_6zQm624fTyd1W/pub)
+Our full syllabus is available [here](https://www.dropbox.com/scl/fi/z3jksc3g0iiyfpg0drbxh/CS-4381_-Rust-Syllabus-5.pdf?rlkey=kjzbpzkw29mtmfazie3ko3i2x&dl=0)
 
 ### Running Lecture Notes and Q&A
-I include lightly edited lecture notes below.
+I include lightly edited lecture notes [here](https://docs.google.com/document/d/e/2PACX-1vSerNNc0S-_lyQUMdxXP_f1rbrOA_Fyos7ZL0g6bfYApe54rXEd-Lj5qb3azvuS-8_ZKsgZpDOi1wLr/pub).
 
 ## Information From Students
 Giving information to students is only part of the teaching process. Getting information back from them is crucial to see if they are understanding the material, if the lessons are taking root, and if anyone needs help. Getting students to implement the code is also important, but my pedagogical interest in getting material back from them are the former concerns. I hope some of them were also writing Rust code I never saw during the class.
