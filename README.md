@@ -41,7 +41,7 @@ I largely followed the order of The Book in the class. We skipped some chapters 
 
 ### Syllabus
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vSTNMOItYRTTRKKy-ycO4AuEay8HlyQP9kLHbQnRkTLCIWCpID2otOd_LDu208v4u_6zQm624fTyd1W/pub?embedded=true"></iframe>
+Our full syllabus is available [here](https://docs.google.com/document/d/e/2PACX-1vSTNMOItYRTTRKKy-ycO4AuEay8HlyQP9kLHbQnRkTLCIWCpID2otOd_LDu208v4u_6zQm624fTyd1W/pub)
 
 ### Running Lecture Notes and Q&A
 I include lightly edited lecture notes below.
